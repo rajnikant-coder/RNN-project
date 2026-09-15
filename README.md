@@ -1,1 +1,1 @@
-# CNN-learning-
+# RNN project
